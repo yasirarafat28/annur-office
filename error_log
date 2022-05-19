@@ -1,0 +1,12 @@
+[18-Feb-2020 06:12:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function num_rows() on null in /home/u240788148/domains/annurcomplex.com/public_html/application/controllers/login.php:65
+Stack trace:
+#0 /home/u240788148/domains/annurcomplex.com/public_html/system/core/CodeIgniter.php(360): login->index()
+#1 /home/u240788148/domains/annurcomplex.com/public_html/index.php(202): require_once('/home/u24078814...')
+#2 {main}
+  thrown in /home/u240788148/domains/annurcomplex.com/public_html/application/controllers/login.php on line 65
+[18-Feb-2020 06:12:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function num_rows() on null in /home/u240788148/domains/annurcomplex.com/public_html/application/controllers/login.php:65
+Stack trace:
+#0 /home/u240788148/domains/annurcomplex.com/public_html/system/core/CodeIgniter.php(360): login->index()
+#1 /home/u240788148/domains/annurcomplex.com/public_html/index.php(202): require_once('/home/u24078814...')
+#2 {main}
+  thrown in /home/u240788148/domains/annurcomplex.com/public_html/application/controllers/login.php on line 65
